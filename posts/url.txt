@@ -1,0 +1,3 @@
+this is the url for the blog where these examples show up.
+
+https://pointofaccess.netlify.app/posts/another-post-in-the-wall
